@@ -1,2 +1,2 @@
 # hello-css
-This is a training purpose file, created September 6, 2021
+This is a training purpose file, created September 7, 2021
